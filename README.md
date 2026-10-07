@@ -1,4 +1,4 @@
-# Cybersecurity CFP Tracker
+# Hacker CFP Tracker
 
 A chronological list of open and upcoming cybersecurity conference CFPs.
 
