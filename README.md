@@ -1,7 +1,5 @@
 # Cybersecurity CFP Tracker
 
-# About
-
 A chronological list of open and upcoming cybersecurity conference CFPs.
 
 To contribute to the list, add or update a conference with its name, conference dates, CFP dates, what organizers are looking for, and a submission link.
